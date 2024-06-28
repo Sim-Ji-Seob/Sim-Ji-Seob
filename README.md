@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=50px&section=header&text=개발자%20Sim-Ji-Seob의%20GIT&fontSize=50)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+</p>
 ### 👋안녕하세요👋
 배우고자 하는 욕망이 크고 앞으로 발전 가능성이 큰 개발자 심지섭입니다.
 
