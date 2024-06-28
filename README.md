@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=orange&height=50px&section=header&text=개발자%20Sim-Ji-Seob의%20GIT&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=blue&height=50px&section=header&text=개발자%20Sim-Ji-Seob의%20GIT&fontSize=50)
 ## 👋Sim-Ji-Seob의 Git 👋
 
 
