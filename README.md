@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=300&section=header&text=Sim-Ji-Seob's%20Git&fontSize=90&animation=fadeIn&fontAlignY=38&desc=배우고자%20하는%20욕망이%20크고%20앞으로%20발전%20가능성이%20큰%20개발자%20심지섭입니다.&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=yelow&height=300&section=header&text=Sim-Ji-Seob's%20Git&fontSize=90&animation=fadeIn&fontAlignY=38&desc=배우고자%20하는%20욕망이%20크고%20앞으로%20발전%20가능성이%20큰%20개발자%20심지섭입니다.&descAlignY=51&descAlign=62"/>
 </p>
 
 <p align="center"> 
